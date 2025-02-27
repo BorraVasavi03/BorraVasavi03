@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vasavi</h1>
-<h3 align="center">A passionate data analyst and developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🔬 I’m currently working on **Sprint 2: Zomato Food Order Analysis**
+- 🔬 I’m currently working on **Spring Boot**
 
 - 🌟 I’m currently enhancing my skills in **Power BI, Python, and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BorraVasavi03?tab=repositories](https://github.com/BorraVasavi03?tab=repositories)
 
-- 💬 Ask me about **Python, Power BI, SQL, Data Analytics**
+- 💬 Ask me about **Java,Python, Power BI, SQL, Data Analytics**
 
 - ⚡ Fun fact **Data never lies, but it can tell different stories!**
 
