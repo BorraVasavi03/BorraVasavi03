@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borra Vasavi</h1> 
 <h3 align="center">A passionate Java Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/f4ztZcdm9Fi90vL4Zd/200.webp?cid=790b76113p0uxbn1l0m1u7x338p2ez1ldigvyc2a32cmspcp&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 - 🔬 I’m currently working on **Spring Boot**
 
@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/your_hackerrank_profile" target="https://www.hackerrank.com/profile/vasavipadma848"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vasavi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/vasavipadma848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vasavi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/borra-vasavi-770154277/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
