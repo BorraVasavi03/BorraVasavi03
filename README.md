@@ -4,7 +4,7 @@
 
 - 🔬 I’m currently working on **Spring , Spring Boot**
 
-- 🌟 I’m currently enhancing my skills in **Advanced Java,  Python, and Data Analytics**
+- 🌟 I’m currently enhancing my skills in **Python, and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BorraVasavi03?tab=repositories](https://github.com/BorraVasavi03?tab=repositories)
 
