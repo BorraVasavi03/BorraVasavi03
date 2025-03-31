@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/f4ztZcdm9Fi90vL4Zd/200.webp?cid=790b76113p0uxbn1l0m1u7x338p2ez1ldigvyc2a32cmspcp&ep=v1_gifs_search&rid=200.webp&ct=g">
 
-- 🔬 I’m currently working on **Spring , Spring Boot **
+- 🔬 I’m currently working on **Spring , Spring Boot**
 
 - 🌟 I’m currently enhancing my skills in **Advanced Java,  Python, and Data Analytics**
 
