@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BorraVasavi03?tab=repositories](https://github.com/BorraVasavi03?tab=repositories)
 
-- 💬 Ask me about **Java, Python, Power BI, SQL, Data Analytics**
+- 💬 Ask me about **Java, Python, Power BI, SQL, Data Analytics,JDBC**
 
 - **⚡Fun Fact: ☕ Java was originally called "Oak" because its creators named it after an oak tree outside their office. They later changed it to "Java" after their love for coffee! 🚀!**
 
