@@ -11,6 +11,7 @@
 - 💬 Ask me about **Java, Python, Power BI, SQL, Data Analytics,JDBC**
 
 - **⚡Fun Fact: ☕ Java was originally called "Oak" because its creators named it after an oak tree outside their office. They later changed it to "Java" after their love for coffee! 🚀!**
+- **⚡Motivation Fact : Every line of code you write brings you closer to mastering one of the most powerful languages—keep pushing forward! 💪** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
