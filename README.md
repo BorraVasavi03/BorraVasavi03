@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borra Vasavi</h1> 
 <h3 align="center">A passionate Java Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/f4ztZcdm9Fi90vL4Zd/200.webp?cid=790b76113p0uxbn1l0m1u7x338p2ez1ldigvyc2a32cmspcp&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt="Coding" width="400" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAMAAACahl6sAAAAGFBMVEX///8rJSVQRkb8yafWmnzGYUT91rtbjLWK0jY9AAACPklEQVR4nO3Z3XLjIAxA4bi/7//GDRea0agYRIJkw5xz08aGoG933Ha7jwcRERERERERLd9hWvUMIHc7Yy/Ih6p2oB2kVW2PfX8gQFaG1FBn91/ZAwTITpCIgAABAgTIXpBMTCgCCBAgQIBcAnnlH0/vQEK/swMBEgTJQGgMECCrQDIfdA2ZjgECJBDSO1DnGdCzHgiQlSEyxNeEzkBAgKwK0YDPCWkQECCrQwRRBvh5JmvK5yPD1/ZaDBAgq0PKvfL597Py0Ysp6/S+8j5AgOwEkYHKvTKMfByB6H0CKQEBsipEDqhBpFGIVIPImUCA3BFydIqGtAIC5CpIb7G+P/JDY7lXg7R+aPTOAQRIJqS3ySYDydoZv3xoneceGgiQYEhrs4W0sg957aG3ec8GAuQKiFer37D1Hz3yDU/qrR35E2+uAwIkCDLSYWoN2coCpgwHBEgCxPvGdoh3mgoAAiQQot+8/DL595n3INnTK+xvwA4DBEhA+hA9WO9wLyINAwRIUp6HfhRxCQYIkASMHG4HqN3Xr1v3gADZBWIfep0dTK71XqdjgABJwOghBGW/CHgg9hoQIKtDaiA7EBAgQP53BvG8BhIRkDtC9JC1a541lwcESEBlCPugy3Uv5BYPPJAHkJjOBvFAWvvTA9LZn95WkLMBvZDa9fSAdPantwXkMLWuj6xNDwiQRMTZvdH1aQEBEtQrQ3nvZczfPRgIkIDsoD3ILYauBeRubQmZse6ygNytbSBEREREREQD/QGnrHaxQ/W7iQAAAABJRU5ErkJggg==">
 
 - 🔬 I’m currently working on **Spring , Spring Boot**
 
